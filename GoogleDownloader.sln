@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleDownloader", "src\GoogleDownloader.csproj", "{7C3CD467-35A1-46B3-82C5-D160CDA5353F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C3CD467-35A1-46B3-82C5-D160CDA5353F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3CD467-35A1-46B3-82C5-D160CDA5353F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3CD467-35A1-46B3-82C5-D160CDA5353F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3CD467-35A1-46B3-82C5-D160CDA5353F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B84D5497-C644-40D5-8203-DC8663DE24A5}
+	EndGlobalSection
+EndGlobal
